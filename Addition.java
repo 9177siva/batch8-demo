@@ -7,6 +7,7 @@ public static void main(string args[])
 	num2=45;
 	res=num1+num2;
 	system.out.println("The sum is "+res);
+	//this is comment
 }
 }
 
